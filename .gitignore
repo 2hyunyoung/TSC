@@ -1,0 +1,6 @@
+tsc_local.db
+__pycache__/
+.env
+node_modules/
+outputs/
+build_test_data.mjs
